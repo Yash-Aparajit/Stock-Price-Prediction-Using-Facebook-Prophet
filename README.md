@@ -21,10 +21,10 @@ To run the project, you'll need to install the following libraries:
 
 ## How to Run
 
--Clone the Repository
--Install Dependencies
--Download Historical Data
--Run the Script
+-Clone the Repository <br>
+-Install Dependencies <br>
+-Download Historical Data <br>
+-Run the Script <br>
 
 ## Conclusion
 This project demonstrates the use of time series forecasting with Prophet to predict stock prices. It offers a simple approach to analyzing stock trends and can be extended to other companies for similar predictions.
