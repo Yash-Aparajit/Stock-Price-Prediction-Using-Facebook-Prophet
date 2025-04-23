@@ -19,5 +19,12 @@ To run the project, you'll need to install the following libraries:
 - `prophet`
 - `plotly`
 
+## How to Run
+
+-Clone the Repository
+-Install Dependencies
+-Download Historical Data
+-Run the Script
+
 ## Conclusion
 This project demonstrates the use of time series forecasting with Prophet to predict stock prices. It offers a simple approach to analyzing stock trends and can be extended to other companies for similar predictions.
